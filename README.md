@@ -16,6 +16,7 @@ Contributions welcome! Open a PR to add/update entries. Keep descriptions factua
 ## Table of Contents
 - [SaaS Products](#saas-products)
 - [Open-Source GitHub Projects](#open-source-github-projects)
+- [Scientific Papers & Implementations](#scientific-papers--implementations)
 - [How to Contribute](#how-to-contribute)
 - [Disclaimer](#disclaimer)
 
@@ -95,6 +96,25 @@ Contributions welcome! Open a PR to add/update entries. Keep descriptions factua
 - **Suno / Udio style open implementations** using combined MusicGen + voice models.
 
 **Frameworks for building custom tools**: Combine **Audiocraft (MusicGen)** + **Demucs** + **Riffusion** with **LangGraph** or **CrewAI** for advanced controllable music generation pipelines running locally.
+
+## Scientific Papers & Implementations
+
+Below is a curated list of influential research papers in AI music generation and their corresponding open-source implementations.
+
+| Model | Paper | GitHub Implementation | Type |
+| :--- | :--- | :--- | :--- |
+| **MusicGen** | [Simple and Controllable Music Generation](https://arxiv.org/abs/2306.05284) | [facebookresearch/audiocraft](https://github.com/facebookresearch/audiocraft) | Audio |
+| **YuE** | [YuE: Open Music Foundation Models for Full-Song Generation](https://arxiv.org/abs/2503.08638) | [multimodal-art-projection/YuE](https://github.com/multimodal-art-projection/YuE) | Audio |
+| **Stable Audio Open** | [Stable Audio Open](https://arxiv.org/abs/2407.14358) | [Stability-AI/stable-audio-tools](https://github.com/Stability-AI/stable-audio-tools) | Audio |
+| **DiffRhythm** | [DiffRhythm: Fast and Simple Full-Length Song Generation](https://arxiv.org/abs/2503.01183) | [ASLP-lab/DiffRhythm](https://github.com/ASLP-lab/DiffRhythm) | Audio |
+| **Mustango** | [Mustango: Toward Controllable Text-to-Music Generation](https://arxiv.org/abs/2311.08306) | [AMAAI-Lab/mustango](https://github.com/AMAAI-Lab/mustango) | Audio |
+| **TANGO** | [TANGO: Text-to-Audio Generation with Latent Diffusion](https://arxiv.org/abs/2304.13731) | [declare-lab/tango](https://github.com/declare-lab/tango) | Audio |
+| **MusicLM** | [MusicLM: Generating Music From Text](https://arxiv.org/abs/2301.11325) | [lucidrains/musiclm-pytorch](https://github.com/lucidrains/musiclm-pytorch) (Unofficial) | Audio |
+| **AudioLM** | [AudioLM: a Language Modeling Approach to Audio Generation](https://arxiv.org/abs/2209.03143) | [lucidrains/audiolm-pytorch](https://github.com/lucidrains/audiolm-pytorch) (Unofficial) | Audio |
+| **MuseGAN** | [MuseGAN: Multi-track Sequential Generative Adversarial Networks](https://arxiv.org/abs/1709.06298) | [salu133445/musegan](https://github.com/salu133445/musegan) | Symbolic |
+| **MuseCoco** | [MuseCoco: Generating Symbolic Music from Text](https://arxiv.org/abs/2306.00110) | [microsoft/muzic](https://github.com/microsoft/muzic/tree/main/musecoco) | Symbolic |
+| **Museformer** | [Museformer: Transformer with Fine- and Coarse-Grained Attention](https://arxiv.org/abs/2210.10349) | [microsoft/muzic](https://github.com/microsoft/muzic/tree/main/museformer) | Symbolic |
+| **Amphion** | [Amphion: An Open-Source Toolkit for Audio, Music, and Speech Generation](https://arxiv.org/abs/2312.09911) | [open-mmlab/Amphion](https://github.com/open-mmlab/Amphion) | Toolkit |
 
 ## How to Contribute
 
