@@ -24,36 +24,23 @@ Contributions welcome! Open a PR to add/update entries. Keep descriptions factua
 
 ### Core Platforms (AI Music Generators)
 
-- **[Udio](https://www.udio.com/)**  
-  Leading AI music generator known for high-quality full songs with realistic vocals, strong prompt adherence, and excellent stem separation.
-
-- **[SOUNDRAW](https://soundraw.io/)**  
-  Professional AI music platform focused on royalty-free tracks for videos, games, and content with fine-grained control.
-
-- **[Musicfy](https://musicfy.lol/)**  
-  User-friendly AI music generator with voice cloning, lyrics generation, and extensive library of styles.
-
-- **[Loudly](https://www.loudly.com/)**  
-  Collaborative AI music creation platform with real-time generation and strong customization options.
-
-- **[Beatoven.ai](https://www.beatoven.ai/)**  
-  AI composer specializing in background music and mood-based generation for videos and podcasts.
-
-- **[Mubert](https://mubert.com/)**  
-  Generative music platform creating endless royalty-free tracks and soundscapes using AI.
-
-- **[AIVA](https://www.aiva.ai/)**  
-  Pioneering AI composer capable of creating emotional and cinematic music in various genres.
-
-- **[Soundful](https://soundful.com/)**  
-  High-quality AI music generator focused on commercial use and professional sound design.
-
-- **[Boomy](https://boomy.com/)**  
-  Easy-to-use platform for creating and releasing AI-generated songs with distribution options.
+| Product | Description | Pricing / Freemium Limit |
+| :--- | :--- | :--- |
+| **[Suno](https://suno.com/)** | Leading AI music generator known for high-quality full songs, viral hits, and extensive style library. | **Freemium:** 50 daily credits (~10 songs). **Paid:** Starts at $10/mo. |
+| **[Udio](https://www.udio.com/)** | Top-tier AI music generator known for realistic vocals, strong prompt adherence, and excellent stem separation. | **Freemium:** 10 daily + 100 monthly credits. **Paid:** Starts at $10/mo. |
+| **[SOUNDRAW](https://soundraw.io/)** | Professional AI music platform focused on royalty-free tracks for videos, games, and content with fine-grained control. | **Freemium:** Unlimited preview (no downloads). **Paid:** Starts at ~$11/mo. |
+| **[Musicfy](https://musicfy.lol/)** | User-friendly AI music generator with voice cloning, lyrics generation, and extensive library of styles. | **Freemium:** 10 monthly credits (15s limit). **Paid:** Starts at $9.99/mo. |
+| **[Loudly](https://www.loudly.com/)** | Collaborative AI music creation platform with real-time generation and strong customization options. | **Freemium:** 30s limit, limited downloads. **Paid:** Starts at $10/mo. |
+| **[Beatoven.ai](https://www.beatoven.ai/)** | AI composer specializing in background music and mood-based generation for videos and podcasts. | **Freemium:** Unlimited generation (no downloads). **Paid:** Starts at $6/mo. |
+| **[Mubert](https://mubert.com/)** | Generative music platform creating endless royalty-free tracks and soundscapes using AI. | **Freemium:** 25 generations/5 downloads (requires attribution). **Paid:** Starts at ~$14/mo. |
+| **[AIVA](https://www.aiva.ai/)** | Pioneering AI composer capable of creating emotional and cinematic music in various genres. | **Freemium:** 3 downloads/mo (non-commercial). **Paid:** Starts at €15/mo. |
+| **[Soundful](https://soundful.com/)** | High-quality AI music generator focused on commercial use and professional sound design. | **Freemium:** 1 MP3 download/mo. **Paid:** Starts at $4.99/mo. |
+| **[Boomy](https://boomy.com/)** | Easy-to-use platform for creating and releasing AI-generated songs with distribution options. | **Freemium:** 25 song saves, 1 release. **Paid:** Starts at $9.99/mo. |
+| **[Tad AI](https://tad.ai/)** | Rapidly growing AI music generator focused on simplicity and fast song creation from text. | **Freemium:** ~20 credits (~4 songs). **Paid:** Starts at $7.99/mo. |
 
 ### Advanced & Specialized Platforms
 
-**Other notable mentions**: Tad AI, Suno, Voicemod AI Music, and various genre-specific tools.
+**Other notable mentions**: Voicemod AI Music and various genre-specific tools.
 
 ## Open-Source GitHub Projects
 
