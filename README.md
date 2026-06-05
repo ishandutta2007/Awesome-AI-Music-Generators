@@ -113,5 +113,20 @@ Star the repo if you find it useful!
 
 ---
 
+## 📈 Star History
+
+<div align="center">
+	<a href="https://www.star-history.com/?repos=ishandutta2007%2FAwesome-AI-Music-Generators&type=date&legend=bottom-right">
+	 <picture>
+	   <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/chart?repos=ishandutta2007/Awesome-AI-Music-Generators&type=date&theme=dark&legend=bottom-right" />
+	   <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/chart?repos=ishandutta2007/Awesome-AI-Music-Generators&type=date&legend=bottom-right" />
+	   <img alt="Star History Chart" src="https://api.star-history.com/chart?repos=ishandutta2007/Awesome-AI-Music-Generators&type=date&legend=bottom-right" />
+	 </picture>
+	</a>
+</div>
+
+
+---
+
 **Made for musicians, producers, content creators, and AI audio enthusiasts.**  
 Let's make music creation more accessible, creative, and fully controllable.
