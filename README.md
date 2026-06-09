@@ -4,7 +4,7 @@
   <h1>Awesome AI Music Generators 🎵</h1>
 
   <p>
-    <a href="  [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/ishandutta2007/awesome-awesome-awesome)">
+    <a href="https://github.com/ishandutta2007/awesome-awesome-awesome">
       <img src="https://awesome.re/badge.svg" alt="Awesome">
     </a>
     <a href="https://github.com/ishandutta2007/Awesome-AI-Music-Generators/blob/main/LICENSE">
