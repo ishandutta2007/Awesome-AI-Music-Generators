@@ -49,6 +49,7 @@
 | :--- | :--- | :--- | :--- | :--- |
 | **[Suno](https://suno.com/)** | 🌟 Leading AI music generator known for high-quality full songs, viral hits, and extensive style library. | Starts at $10/mo. | 50 daily credits (~10 songs) | $5.4B Valuation / $300M ARR |
 | **[Udio](https://www.udio.com/)** | 🔥 Top-tier AI music generator known for realistic vocals, strong prompt adherence, and excellent stem separation. | Starts at $10/mo. | 10 daily + 100 monthly credits | $5.4B Valuation / $3.1M ARR |
+| **[Mureka](https://www.mureka.ai/)** | 🌐 Creative platform built on MusiCoT, generating complete songs with full vocal/lyrics/style customization. | Paid packs / subscription | Limited daily credits (~2-3 songs) | $100M+ Parent ARR (Kunlun Tech) |
 | **[Soundful](https://soundful.com/)** | 💎 High-quality AI music generator focused on commercial use and professional sound design. | Starts at $4.99/mo. | 1 MP3 download/mo | $7.5M Revenue / $4M+ Funding |
 | **[Beatoven.ai](https://www.beatoven.ai/)** | 🧘 AI composer specializing in background music and mood-based generation for videos and podcasts. | Starts at $6/mo. | Unlimited generation (no downloads) | $8M Valuation / $2.5M ARR |
 | **[Boomy](https://boomy.com/)** | 🚀 Easy-to-use platform for creating and releasing AI-generated songs with distribution options. | Starts at $9.99/mo. | 25 song saves, 1 release | $5.38M Funding |
@@ -57,6 +58,7 @@
 | **[AIVA](https://www.aiva.ai/)** | 🏛️ Pioneering AI composer capable of creating emotional and cinematic music in various genres. | Starts at €15/mo. | 3 downloads/mo (non-commercial) | $2.48M Funding |
 | **[Musicfy](https://musicfy.lol/)** | 🎤 User-friendly AI music generator with voice cloning, lyrics generation, and extensive library of styles. | Starts at $9.99/mo. | 10 monthly credits (15s limit) | $2M+ ARR |
 | **[Loudly](https://www.loudly.com/)** | 🎧 Collaborative AI music creation platform with real-time generation and strong customization options. | Starts at $10/mo. | 30s limit, limited downloads | $1.97M Revenue |
+| **[MusicGPT](https://musicgpt.com/)** | 🎹 Complete AI music studio generating full tracks with vocals, lyrics, and DAW-friendly editing capability. | Starts at $9.99/mo. | 500 credits/mo (personal use) | Growth Stage / Bootstrapped |
 | **[Tad AI](https://tad.ai/)** | ⚡ Rapidly growing AI music generator focused on simplicity and fast song creation from text. | Starts at $7.99/mo. | ~20 credits (~4 songs) | < $1M Est. (Early Stage) |
 
 ### Advanced & Specialized Platforms 🛠️
@@ -84,11 +86,17 @@
 - **[Tortoise TTS](https://github.com/neonbjb/tortoise-tts)** (with music extensions) [![GitHub stars](https://img.shields.io/github/stars/neonbjb/tortoise-tts?style=social&color=white)](https://github.com/neonbjb/tortoise-tts/stargazers) 🐢  
   High-quality voice and audio generation that can be combined with music models for full track creation.
 
+- **[ACE-Step 1.5](https://github.com/ace-step/ACE-Step-1.5)** [![GitHub stars](https://img.shields.io/github/stars/ace-step/ACE-Step-1.5?style=social&color=white)](https://github.com/ace-step/ACE-Step-1.5/stargazers) ⚡  
+  Outstanding local-first AI music generation framework with user-friendly web UI.
+
 - **[Demucs](https://github.com/facebookresearch/demucs)** [![GitHub stars](https://img.shields.io/github/stars/facebookresearch/demucs?style=social&color=white)](https://github.com/facebookresearch/demucs/stargazers) 🥁  
   Leading open-source music source separation model (v4) for splitting vocals, drums, bass, and other stems.
 
 - **[Jukebox (OpenAI)](https://github.com/openai/jukebox)** (and modern forks) [![GitHub stars](https://img.shields.io/github/stars/openai/jukebox?style=social&color=white)](https://github.com/openai/jukebox/stargazers) 📻  
   Pioneering autoregressive music generation model with many community fine-tunes.
+
+- **[YuE](https://github.com/multimodal-art-projection/YuE)** [![GitHub stars](https://img.shields.io/github/stars/multimodal-art-projection/YuE?style=social&color=white)](https://github.com/multimodal-art-projection/YuE/stargazers) 🌟  
+  Open-source foundation model for full-song music generation capable of high-fidelity vocal and music synthesis.
 
 - **[DiffSinger](https://github.com/MoonInTheRiver/DiffSinger)** (with DiffRhythm) [![GitHub stars](https://img.shields.io/github/stars/MoonInTheRiver/DiffSinger?style=social&color=white)](https://github.com/MoonInTheRiver/DiffSinger/stargazers) 🎤  
   Singing voice synthesis models.
@@ -101,6 +109,9 @@
 
 - **[Open-Unmix](https://github.com/sigsep/open-unmix)** [![GitHub stars](https://img.shields.io/github/stars/sigsep/open-unmix?style=social&color=white)](https://github.com/sigsep/open-unmix/stargazers) ✂️  
   State-of-the-art source separation (stems) tool essential for AI music post-processing.
+
+- **[DiffRhythm](https://github.com/ASLP-lab/DiffRhythm)** [![GitHub stars](https://img.shields.io/github/stars/ASLP-lab/DiffRhythm?style=social&color=white)](https://github.com/ASLP-lab/DiffRhythm/stargazers) 🥁  
+  Fast and simple full-length song generation using non-autoregressive latent diffusion.
 
 ### Additional Strong Open-Source Options 🚀
 
