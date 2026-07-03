@@ -69,37 +69,41 @@
 
 ### Dedicated AI Music Generation Projects 🛠️
 
-- **[Audiocraft / MusicGen](https://github.com/facebookresearch/audiocraft)** 🎼  
-  Meta's powerful open-source framework for music and audio generation. Includes MusicGen models capable of high-quality text-to-music generation.
-
-- **[Riffusion](https://github.com/riffusion/riffusion-app)** 🌈  
-  Stable Diffusion adapted for music generation by converting spectrograms. Enables real-time text-to-music and style transfer.
-
-- **[Stable Audio Open](https://github.com/Stability-AI/stable-audio-tools)** 🔊  
-  Open-source version of Stability AI’s music generation model for high-fidelity audio synthesis from text.
-
-- **[Tortoise TTS](https://github.com/neonbjb/tortoise-tts)** (with music extensions) 🐢  
-  High-quality voice and audio generation that can be combined with music models for full track creation.
-
-- **[Magenta](https://github.com/magenta/magenta)** (Google) 🤖  
-  Comprehensive open-source research platform for music and art generation with many models and tools.
-
-- **[Open-Unmix](https://github.com/sigsep/open-unmix)** ✂️  
-  State-of-the-art source separation (stems) tool essential for AI music post-processing.
-
-- **[Demucs](https://github.com/facebookresearch/demucs)** 🥁  
-  Leading open-source music source separation model (v4) for splitting vocals, drums, bass, and other stems.
-
-- **[MusicLM / AudioLM inspired models](https://github.com/google-research/google-research/tree/master/musiclm)** 🧠  
+- **[MusicLM / AudioLM inspired models](https://github.com/google-research/google-research/tree/master/musiclm)** [![GitHub stars](https://img.shields.io/github/stars/google-research/google-research?style=social&color=white)](https://github.com/google-research/google-research/stargazers) 🧠  
   Various open implementations and improvements of Google's music generation research.
 
-- **[Jukebox (OpenAI)](https://github.com/openai/jukebox)** (and modern forks) 📻  
+- **[Ultimate Vocal Remover (UVR)](https://github.com/Anjok07/ultimatevocalremovergui)** [![GitHub stars](https://img.shields.io/github/stars/Anjok07/ultimatevocalremovergui?style=social&color=white)](https://github.com/Anjok07/ultimatevocalremovergui/stargazers) 🧼  
+  Popular GUI for stem separation.
+
+- **[Audiocraft / MusicGen](https://github.com/facebookresearch/audiocraft)** [![GitHub stars](https://img.shields.io/github/stars/facebookresearch/audiocraft?style=social&color=white)](https://github.com/facebookresearch/audiocraft/stargazers) 🎼  
+  Meta's powerful open-source framework for music and audio generation. Includes MusicGen models capable of high-quality text-to-music generation.
+
+- **[Magenta](https://github.com/magenta/magenta)** (Google) [![GitHub stars](https://img.shields.io/github/stars/magenta/magenta?style=social&color=white)](https://github.com/magenta/magenta/stargazers) 🤖  
+  Comprehensive open-source research platform for music and art generation with many models and tools.
+
+- **[Tortoise TTS](https://github.com/neonbjb/tortoise-tts)** (with music extensions) [![GitHub stars](https://img.shields.io/github/stars/neonbjb/tortoise-tts?style=social&color=white)](https://github.com/neonbjb/tortoise-tts/stargazers) 🐢  
+  High-quality voice and audio generation that can be combined with music models for full track creation.
+
+- **[Demucs](https://github.com/facebookresearch/demucs)** [![GitHub stars](https://img.shields.io/github/stars/facebookresearch/demucs?style=social&color=white)](https://github.com/facebookresearch/demucs/stargazers) 🥁  
+  Leading open-source music source separation model (v4) for splitting vocals, drums, bass, and other stems.
+
+- **[Jukebox (OpenAI)](https://github.com/openai/jukebox)** (and modern forks) [![GitHub stars](https://img.shields.io/github/stars/openai/jukebox?style=social&color=white)](https://github.com/openai/jukebox/stargazers) 📻  
   Pioneering autoregressive music generation model with many community fine-tunes.
+
+- **[DiffSinger](https://github.com/MoonInTheRiver/DiffSinger)** (with DiffRhythm) [![GitHub stars](https://img.shields.io/github/stars/MoonInTheRiver/DiffSinger?style=social&color=white)](https://github.com/MoonInTheRiver/DiffSinger/stargazers) 🎤  
+  Singing voice synthesis models.
+
+- **[Stable Audio Open](https://github.com/Stability-AI/stable-audio-tools)** [![GitHub stars](https://img.shields.io/github/stars/Stability-AI/stable-audio-tools?style=social&color=white)](https://github.com/Stability-AI/stable-audio-tools/stargazers) 🔊  
+  Open-source version of Stability AI’s music generation model for high-fidelity audio synthesis from text.
+
+- **[Riffusion](https://github.com/riffusion/riffusion-app)** [![GitHub stars](https://img.shields.io/github/stars/riffusion/riffusion-app?style=social&color=white)](https://github.com/riffusion/riffusion-app/stargazers) 🌈  
+  Stable Diffusion adapted for music generation by converting spectrograms. Enables real-time text-to-music and style transfer.
+
+- **[Open-Unmix](https://github.com/sigsep/open-unmix)** [![GitHub stars](https://img.shields.io/github/stars/sigsep/open-unmix?style=social&color=white)](https://github.com/sigsep/open-unmix/stargazers) ✂️  
+  State-of-the-art source separation (stems) tool essential for AI music post-processing.
 
 ### Additional Strong Open-Source Options 🚀
 
-- **[DiffSinger / DiffRhythm](https://github.com/search?q=diffsinger)** — Singing voice synthesis models. 🎤
-- **[Ultimate Vocal Remover (UVR)](https://github.com/Anjok07/ultimatevocalremovergui)** — Popular GUI for stem separation. 🧼
 - **Many GGUF / quantized versions** of MusicGen, Stable Audio, and Riffusion optimized for local inference. 📦
 - **LangChain + Audiocraft** pipelines for agentic music generation workflows. 🔗
 
