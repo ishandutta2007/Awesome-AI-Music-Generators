@@ -63,6 +63,10 @@
 
 ### Advanced & Specialized Platforms 🛠️
 
+| Product | Description | Type |
+| :--- | :--- | :--- |
+| **[MusiCraft Stem Splitter](https://www.musicraft.ai/features/stem-splitter)** | 🧼 Browser-based AI stem separation that isolates vocals, drums, bass, and other instruments from any track. | SaaS / Hosted |
+
 **Other notable mentions**: Voicemod AI Music, Suno (implied), and various genre-specific tools.
 
 ---
