@@ -63,6 +63,8 @@
 
 ### Advanced & Specialized Platforms 🛠️
 
+- **[AI Rap Video](https://airapvideo.us/)** 🎤 — SaaS. AI rap video generator: write or paste a verse, pick a photo, original character or duo, and get a short lip-synced rap music video with the beat and vocals built into each scene.
+
 **Other notable mentions**: Voicemod AI Music, Suno (implied), and various genre-specific tools.
 
 ---
