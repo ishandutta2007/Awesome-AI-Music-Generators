@@ -55,6 +55,7 @@
 | **[Boomy](https://boomy.com/)** | 🚀 Easy-to-use platform for creating and releasing AI-generated songs with distribution options. | Starts at $9.99/mo. | 25 song saves, 1 release | $5.38M Funding |
 | **[SOUNDRAW](https://soundraw.io/)** | 🎬 Professional AI music platform focused on royalty-free tracks for videos, games, and content with fine-grained control. | Starts at ~$11/mo. | Unlimited preview (no downloads) | $5M Funding |
 | **[Mubert](https://mubert.com/)** | 🎨 Generative music platform creating endless royalty-free tracks and soundscapes using AI. | Starts at ~$14/mo. | 25 generations / 5 downloads (requires attribution) | $2.6M Funding |
+| **[AI Rap Video](https://rapaivideo.net)** | 🎤 AI generator that turns two selfies into a lip-synced rap music video with original AI lyrics and a generated beat. | Free credits to start (freemium) | Free credits to test | Indie project |
 | **[AIVA](https://www.aiva.ai/)** | 🏛️ Pioneering AI composer capable of creating emotional and cinematic music in various genres. | Starts at €15/mo. | 3 downloads/mo (non-commercial) | $2.48M Funding |
 | **[Musicfy](https://musicfy.lol/)** | 🎤 User-friendly AI music generator with voice cloning, lyrics generation, and extensive library of styles. | Starts at $9.99/mo. | 10 monthly credits (15s limit) | $2M+ ARR |
 | **[Loudly](https://www.loudly.com/)** | 🎧 Collaborative AI music creation platform with real-time generation and strong customization options. | Starts at $10/mo. | 30s limit, limited downloads | $1.97M Revenue |
