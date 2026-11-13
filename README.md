@@ -60,6 +60,7 @@
 | **[Loudly](https://www.loudly.com/)** | 🎧 Collaborative AI music creation platform with real-time generation and strong customization options. | Starts at $10/mo. | 30s limit, limited downloads | $1.97M Revenue |
 | **[MusicGPT](https://musicgpt.com/)** | 🎹 Complete AI music studio generating full tracks with vocals, lyrics, and DAW-friendly editing capability. | Starts at $9.99/mo. | 500 credits/mo (personal use) | $8.8M funded |
 | **[Tad AI](https://tad.ai/)** | ⚡ Rapidly growing AI music generator focused on simplicity and fast song creation from text. | Starts at $7.99/mo. | ~20 credits (~4 songs) | < $1M Est. (Early Stage) |
+| **[Tunenoodle](https://tunenoodle.com/)** | AI music generator that turns a text idea, lyrics or a hummed melody into a song, plus 30+ free browser audio tools. SaaS / Freemium. | Freemium | Browser tools are free and need no account; AI generation and the stem splitter use credits | Bootstrapped / no funding |
 
 ### Advanced & Specialized Platforms 🛠️
 
